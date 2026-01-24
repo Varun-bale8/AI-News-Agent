@@ -1,0 +1,7 @@
+flask==3.1.2
+newspaper3k==0.2.8
+lxml_html_clean
+transformers==4.41.2
+torch
+gTTS==2.5.1
+googletrans==4.0.0rc1
